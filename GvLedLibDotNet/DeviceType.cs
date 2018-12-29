@@ -18,6 +18,7 @@ namespace GvLedLibDotNet
 
         Mouse_XM300         = 0x3001,
         Mouse_AORUS_M3      = 0x3002,
+        Mouse_AORUS_M5      = 0x3003,
 
         VGA_BOX_1070IXEB    = 0x4001,
         VGA_BOX_1080IXEB    = 0x4002,
@@ -28,6 +29,8 @@ namespace GvLedLibDotNet
         Earphone_AORUS_H5   = 0x4007,
         Case_AC300W         = 0x4008,
         CPU_Cooler_ATC700   = 0x4009,
-        Mouse_Pad_AORUS_P7  = 0x400A
+        Mouse_Pad_AORUS_P7  = 0x400A,
+
+        Unknown_device      =0x5001
     }
 }
